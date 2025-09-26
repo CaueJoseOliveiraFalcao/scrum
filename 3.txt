@@ -1,0 +1,54 @@
+Kanban 
+    sistema de gestao virtual por meio de cartoes
+
+    Principios 
+        tarefas pequenas 
+        quadro visual
+        faça apenas se tiver tempo 
+        gerenciar riscos
+        adaptabiliadde 
+
+    fluxo 
+        os papeis podem ser compartilhado com o cleinte pra ele ver o 
+        progresso
+
+        Upstream kanban 
+            fluxo estruturado para avaliar e refinar ideias 
+        Downstream kanban 
+            desenvilvomento em si
+
+        Lead time medio 
+            tempo para entrega 
+        Cycletime medio 
+            tempo de dev de um intem espefifico 
+        Throughput
+            quantidade de intems entreges em um tempo 
+        
+        Limitar o Work in Progress 
+            fazer tareas mas simples e nao engasgar
+
+        SRM - service request Manager 
+            entender as necessidades e expectativas dos clientes 
+        SDM - service delivery manager 
+            responsavel pelo fluxo de trabalho entregando os intems 
+
+XP
+    qualidade grande com tempo de qualidade de vida para equipe 
+
+    Caracteristicas 
+        mudanças dinamicas dos requisistos
+        pequena equipe trabalhando no mesmo local
+        testes automatizados 
+    
+    Papeis 
+        Cliente 
+        Devs 
+        Coach , alguem que aplica as praticas de XP 
+        Tracker , coleta metricas pra identificar problemas e saidas 
+    
+    TDD - desenvolvimento orientado a testes 
+
+        Aceitacao TDD 
+            unico teste de aceitação 
+        Desenvolvedor TDD
+            
